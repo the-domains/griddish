@@ -15,5 +15,9 @@ author:
   name: Arne
   email: hallo@arnebrockmann.com
 name: Griddish
+navigation:
+  - name: 'Finlandia Caviar Shop and Restaurant, Helsinki, Finland '
+    id: 14b2750a-d439-4805-ae1a-fd22b6e3ae80
+    type: content
 title: This is a bold Title
 description: This is an italic Tagline
