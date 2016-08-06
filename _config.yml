@@ -1,4 +1,3 @@
-layout_spectrum: 0.5549553311429918
 typography_spectrum: 0.7449627055320889
 color:
   brandStrength: 0.5892843708861619
@@ -6,9 +5,14 @@ color:
   saturation: 0.7414366616867483
   rhythmicContrast: 0.13476506806910038
   brandColors:
-    - '#962D3E'
-    - '#343642'
-    - '#979C9C'
-    - '#F2EBC7'
-    - '#348899'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+layout_spectrum: 0.5549553311429918
+author:
+  name: Arne
+  email: hallo@arnebrockmann.com
 name: Griddish
+title: Tagline
