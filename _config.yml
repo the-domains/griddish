@@ -6,9 +6,9 @@ color:
   saturation: 0.7414366616867483
   rhythmicContrast: 0.13476506806910038
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#962D3E'
+    - '#343642'
+    - '#979C9C'
+    - '#F2EBC7'
+    - '#348899'
 name: Griddish
